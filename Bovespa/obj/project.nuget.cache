@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "caM9dvjcAW5npdWMs35AbhEMGLvYH+TRI985vpQ7fKKq1E7pbSu6uUJD01UPXzgTjOEYXT9OHz0eEiE8mmT3eA==",
+  "success": true,
+  "projectFilePath": "/home/junior/Documents/Bovespa/Bovespa.csproj",
+  "expectedPackageFiles": [
+    "/home/junior/.nuget/packages/dotenv.net/2.1.3/dotenv.net.2.1.3.nupkg.sha512",
+    "/home/junior/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/home/junior/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/junior/.nuget/packages/selenium.support/3.141.0/selenium.support.3.141.0.nupkg.sha512",
+    "/home/junior/.nuget/packages/selenium.webdriver/3.141.0/selenium.webdriver.3.141.0.nupkg.sha512",
+    "/home/junior/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

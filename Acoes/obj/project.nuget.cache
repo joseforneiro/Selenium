@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QUKZ2rqDWqm+K4cT6eucuKlI+oAj/XjQ2UUcBOelYbnwSflgzs9R2KBvbJBmG5RGEqAHPaqHt22C12sxIUmRA==",
+  "success": true,
+  "projectFilePath": "/home/junior/Documents/Acoes/Acoes.csproj",
+  "expectedPackageFiles": [
+    "/home/junior/.nuget/packages/dotenv.net/2.1.3/dotenv.net.2.1.3.nupkg.sha512",
+    "/home/junior/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/junior/.nuget/packages/selenium.chrome.webdriver/85.0.0/selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "/home/junior/.nuget/packages/selenium.support/3.141.0/selenium.support.3.141.0.nupkg.sha512",
+    "/home/junior/.nuget/packages/selenium.webdriver/3.141.0/selenium.webdriver.3.141.0.nupkg.sha512",
+    "/home/junior/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
